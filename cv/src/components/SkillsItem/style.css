@@ -1,0 +1,14 @@
+
+
+li {
+    display: inline;
+    margin: 10px;
+    /* background-color: rgb(227, 231, 221); */
+    font-weight: bold;
+
+    
+}
+
+li p {
+    padding: 5px;
+}
